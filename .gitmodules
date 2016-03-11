@@ -1,0 +1,8 @@
+[submodule "src/em-go.cfapps.io/leaf"]
+	path = src/em-go.cfapps.io/leaf
+	url = https://github.com/ematpl/leaf
+	branch = master
+[submodule "src/em-go.cfapps.io/twig"]
+	path = src/em-go.cfapps.io/twig
+	url = https://github.com/ematpl/twig
+	branch = master
